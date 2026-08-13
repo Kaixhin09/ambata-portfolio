@@ -8,14 +8,14 @@ const PROJECTS = [
     stack: ["MERN Stack", "Python", "NLTK"],
     description:
       "A full-stack web app that mines OJT learning journals for task patterns and checks how well they line up with the program's academic competencies.",
-    thumbnail: "/projects/narralytics/01.png",
+    thumbnail: "/projects/Narralytics/01.png",
     images: [
-      "/projects/narralytics/01.png",
-      "/projects/narralytics/02.png",
-      "/projects/narralytics/03.png",
-      "/projects/narralytics/04.png",
-      "/projects/narralytics/05.png",
-      "/projects/narralytics/06.png",
+      "/projects/Narralytics/01.png",
+      "/projects/Narralytics/02.png",
+      "/projects/Narralytics/03.png",
+      "/projects/Narralytics/04.png",
+      "/projects/Narralytics/05.png",
+      "/projects/Narralytics/06.png",
     ],
     },
     {
@@ -24,11 +24,11 @@ const PROJECTS = [
     stack: ["Godot Engine", "GDScript"],
     description:
       "A 2D platformer with multi-level progression — clear every enemy on a level and it spawns the key that unlocks the door to the next one.",
-    thumbnail: "/projects/blazewalk/01.png",
+    thumbnail: "/projects/BlazeWalk/01.png",
     images: [
-      "/projects/blazewalk/01.png",
-      "/projects/blazewalk/02.png",
-      "/projects/blazewalk/03.png",
+      "/projects/BlazeWalk/01.png",
+      "/projects/BlazeWalk/02.png",
+      "/projects/BlazeWalk/03.png",
     ]
   },
   {
@@ -44,10 +44,10 @@ const PROJECTS = [
     stack: ["Vite", "React"],
     description:
       "Create tasks, sort them into categories, and filter the list — everything persists in local storage.",
-    thumbnail: "/projects/tasktracker/01.png",
+    thumbnail: "/projects/Task Tracker/01.png",
     images: [
-      "/projects/tasktracker/01.png",
-      "/projects/tasktracker/02.png",
+      "/projects/Task Tracker/01.png",
+      "/projects/Task Tracker/02.png",
     ]
   },
   {
@@ -56,12 +56,12 @@ const PROJECTS = [
     stack: ["Vite", "MERN Stack"],
     description:
       "A web app that lets you keep track of the games you own, the ones you want to play, and the ones you've completed.",
-    thumbnail: "/projects/game-backlog/01.png",
+    thumbnail: "/projects/Game Backlog/01.png",
     images: [
-      "/projects/game-backlog/01.png",
-      "/projects/game-backlog/02.png",
-      "/projects/game-backlog/03.png",
-      "/projects/game-backlog/04.png",
+      "/projects/Game Backlog/01.png",
+      "/projects/Game Backlog/02.png",
+      "/projects/Game Backlog/03.png",
+      "/projects/Game Backlog/04.png",
     ]
   },
 ]
