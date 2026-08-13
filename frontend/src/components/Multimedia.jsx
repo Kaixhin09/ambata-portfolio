@@ -106,9 +106,9 @@ const MULTIMEDIA_WORKS = [
     description:
       "A visually striking poster design for a billiard tournament, capturing the excitement and competitive spirit of the event.",
     type: "image",
-    thumbnail: "multimedia/image/03.jfif",
-    previewImageSrc: "multimedia/image/03.jfif",
-    fullImageSrc: "multimedia/image/03.jfif",
+    thumbnail: "multimedia/image/01.jfif",
+    previewImageSrc: "multimedia/image/01.jfif",
+    fullImageSrc: "multimedia/image/01.jfif",
     href: "",
   },
   {
@@ -117,9 +117,9 @@ const MULTIMEDIA_WORKS = [
     description:
       "A visually striking thumbnail design for a YouTube video, capturing the essence of the content.",
     type: "image",
-    thumbnail: "multimedia/image/01.jfif",
-    previewImageSrc: "multimedia/image/01.jfif",
-    fullImageSrc: "multimedia/image/01.jfif",
+    thumbnail: "multimedia/image/02.jfif",
+    previewImageSrc: "multimedia/image/02.jfif",
+    fullImageSrc: "multimedia/image/02.jfif",
     href: "https://youtu.be/32UAd133DqU",
   },
     {
@@ -128,9 +128,9 @@ const MULTIMEDIA_WORKS = [
     description:
       "A visually striking thumbnail design for an Instagram post, capturing the essence of the content.",
     type: "image",
-    thumbnail: "multimedia/image/02.jfif",
-    previewImageSrc: "multimedia/image/02.jfif",
-    fullImageSrc: "multimedia/image/02.jfif",
+    thumbnail: "multimedia/image/03.jfif",
+    previewImageSrc: "multimedia/image/03.jfif",
+    fullImageSrc: "multimedia/image/03.jfif",
     href: "https://www.instagram.com/p/ChOnEFWPxEA/",
   },
 
