@@ -46,7 +46,7 @@ const LANGUAGES = [
 ];
 export default function Skills() {
   return (
-    <section id="about" className="mx-auto max-w-6xl px-6 py-20">
+    <section id="about" data-reveal className="reveal-section mx-auto max-w-6xl px-6 py-20 scroll-mt-28">
       <div className="grid gap-12 md:grid-cols-[0.9fr_1.1fr]">
         <div>
           <p className="font-mono text-xs uppercase tracking-widest text-teal">About</p>
@@ -72,7 +72,8 @@ export default function Skills() {
           {Object.entries(SKILL_GROUPS).map(([group, items]) => (
             <div
               key={group}
-              className="group rounded-2xl border border-line bg-surface p-5 transition-colors hover:border-amber/40"
+              data-reveal
+              className="reveal-section group rounded-2xl border border-line bg-surface p-5 transition-colors hover:border-amber/40"
             >
               <div className="flex items-center justify-between">
                 <h3 className="font-mono text-[11px] uppercase tracking-wider text-amber">

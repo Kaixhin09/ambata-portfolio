@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <section id="contact" className="mx-auto max-w-6xl px-6 py-24">
+    <section id="contact" data-reveal className="reveal-section mx-auto max-w-6xl px-6 py-24 scroll-mt-28">
       <div className="rounded-3xl border border-line bg-surface px-8 py-14 text-center sm:px-16">
         <p className="font-mono text-xs uppercase tracking-widest text-teal">Next level</p>
         <h2 className="mx-auto mt-4 max-w-xl font-display text-3xl sm:text-5xl font-semibold text-paper">

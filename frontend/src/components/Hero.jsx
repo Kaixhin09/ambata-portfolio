@@ -45,7 +45,7 @@ export default function Hero() {
     }, [RoleIndex, display, phase]);
 
     return (
-        <section id="#top" className="flex min-h-screen flex-col items-center justify-center gap-4 px-6 text-center">
+        <section id="top" data-reveal className="reveal-section flex min-h-screen flex-col items-center justify-center gap-4 px-6 text-center scroll-mt-28">
             <div className="mx-auto max-w-6xl">
                 <p className="text-mono text-xs uppercase tracking-[0.3rem] text-teal">
                     Silang, Cavite, Philippines

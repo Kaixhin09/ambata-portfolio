@@ -70,7 +70,7 @@ export default function Projects() {
   const [selectedProject, setSelectedProject] = useState(null);
 
   return (
-    <section id="work" className="mx-auto max-w-6xl px-6 py-20">
+    <section id="work" data-reveal className="reveal-section mx-auto max-w-6xl px-6 py-20 scroll-mt-28">
       <p className="font-mono text-xs uppercase tracking-widest text-teal">Selected work</p>
       <h2 className="mt-4 font-display text-3xl sm:text-4xl font-semibold text-paper">
         Stage select
@@ -84,7 +84,8 @@ export default function Projects() {
             <article
               key={project.title}
               onClick={hasImages ? () => setSelectedProject(project) : undefined}
-              className={`rounded-2xl border border-line bg-surface p-6 transition-colors ${
+              data-reveal
+              className={`reveal-section rounded-2xl border border-line bg-surface p-6 transition-colors ${
                 hasImages ? "cursor-pointer hover:border-amber/60" : ""
               }`}
             >
