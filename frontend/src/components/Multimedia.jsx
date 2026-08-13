@@ -30,8 +30,8 @@ const MULTIMEDIA_WORKS = [
       "A glimpse of the Rizal Poetry School Activity, where creativity and expression come alive through the power of words.",
     type: "video",
     thumbnail: "multimedia/thumbnail/03.png",
-    previewVideoSrc: "multimedia/video/03.mp4",
-    fullVideoSrc: "multimedia/video/03.mp4",
+    previewVideoSrc: null,
+    fullVideoSrc: null,
     href: "https://drive.google.com/drive/folders/1yCI9PZgxH-53YlDGp9H3mgpZ0ZF0GsXD?usp=sharing",
   },
   {
