@@ -112,27 +112,28 @@ const MULTIMEDIA_WORKS = [
     href: "",
   },
   {
-   title: "Youtube Thumbnail Design",
-    platform: "Youtube",
+    title: "Sunsilk Ad",
+    platform: "",
     description:
-      "A visually striking thumbnail design for a YouTube video, capturing the essence of the content.",
-    type: "image",
-    thumbnail: "multimedia/image/02.jfif",
-    previewImageSrc: "multimedia/image/02.jfif",
-    fullImageSrc: "multimedia/image/02.jfif",
-    href: "https://youtu.be/32UAd133DqU",
+      "A creative advertisement for Sunsilk, highlighting the brand's hair care products and their benefits.",
+    type: "video",
+    thumbnail: "multimedia/thumbnail/10.png",
+    previewVideoSrc: "multimedia/video/10.mp4",
+    fullVideoSrc: "multimedia/video/10.mp4",
+    href: "",
   },
-    {
-   title: "Instagram 3x1 Post Design",
-    platform: "Instagram",
+  {
+    title: "Old Spice Ad",
+    platform: "",
     description:
-      "A visually striking thumbnail design for an Instagram post, capturing the essence of the content.",
-    type: "image",
-    thumbnail: "multimedia/image/03.jfif",
-    previewImageSrc: "multimedia/image/03.jfif",
-    fullImageSrc: "multimedia/image/03.jfif",
-    href: "https://www.instagram.com/p/ChOnEFWPxEA/",
+      "A creative advertisement for Old Spice, showcasing the brand's unique style and appeal.",
+    type: "video",
+    thumbnail: "multimedia/thumbnail/11.png",
+    previewVideoSrc: "multimedia/video/11.mp4",
+    fullVideoSrc: "multimedia/video/11.mp4",
+    href: "",
   },
+
 
 ]
 
